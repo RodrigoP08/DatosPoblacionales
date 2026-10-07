@@ -1,0 +1,5 @@
+outs:
+- md5: 7a1c19797b7c9fe0a5787794bac59c68
+  size: 11333057
+  hash: md5
+  path: tr_enasem24_mhas_enasem_2024_constructed_variables_creadas.csv
